@@ -52,6 +52,7 @@ Screenshots
 Changelog
 ===
 1.0 - Initial Release
+1.1 - Added the ability to detect branches
 
 Upgrade Notice
 ===
