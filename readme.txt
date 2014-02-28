@@ -19,10 +19,12 @@ It was inspired by [37signals](http://37signals.com/svn/posts/3535-beyond-the-de
 This section describes how to install the plugin and get it working.
 
 Manual:
+
 1. Upload the folder “Genesis-Stage-Switcher” to the /wp-content/plugins folder on your web server.
 2. From the Plugins page in the WordPress Dashboard click “Activate” underneath the heading for “Genesis Stage Switcher”
 
 From the Repository:
+
 1. From the Plugins page in the WordPress Dashboard click on “Add New”
 2. Search for “Genesis Stage Switcher”
 3. Click on “Install Now”
@@ -37,6 +39,7 @@ image.png
 
 == Changelog ==
 1.0 - Initial Release
+1.1 - Added the ability to detect branches
 
 == Upgrade Notice ==
 None at this time
